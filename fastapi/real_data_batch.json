@@ -1,0 +1,114 @@
+{
+  "records": [
+    {
+      "District": "Amritsar",
+      "norm_purpose_grouped": "appearance",
+      "prev_norm_purpose": "START",
+      "hearing_idx": 1,
+      "case_age_at_hearing": 0.0,
+      "prev_gap": 0.0,
+      "gap_trend": 0.0,
+      "cnr": "PBASA10000412024",
+      "hearing_date": "2024-01-05"
+    },
+    {
+      "District": "Amritsar",
+      "norm_purpose_grouped": "appearance",
+      "prev_norm_purpose": "appearance",
+      "hearing_idx": 2,
+      "case_age_at_hearing": 62.0,
+      "prev_gap": 62.0,
+      "gap_trend": 0.0,
+      "cnr": "PBASA10000412024",
+      "hearing_date": "2024-03-07"
+    },
+    {
+      "District": "Amritsar",
+      "norm_purpose_grouped": "appearance",
+      "prev_norm_purpose": "appearance",
+      "hearing_idx": 3,
+      "case_age_at_hearing": 117.0,
+      "prev_gap": 55.0,
+      "gap_trend": -3.5,
+      "cnr": "PBASA10000412024",
+      "hearing_date": "2024-05-01"
+    },
+    {
+      "District": "Amritsar",
+      "norm_purpose_grouped": "appearance",
+      "prev_norm_purpose": "appearance",
+      "hearing_idx": 4,
+      "case_age_at_hearing": 131.0,
+      "prev_gap": 14.0,
+      "gap_trend": -29.666666666666664,
+      "cnr": "PBASA10000412024",
+      "hearing_date": "2024-05-15"
+    },
+    {
+      "District": "Amritsar",
+      "norm_purpose_grouped": "appearance",
+      "prev_norm_purpose": "START",
+      "hearing_idx": 1,
+      "case_age_at_hearing": 0.0,
+      "prev_gap": 0.0,
+      "gap_trend": -43.666666666666664,
+      "cnr": "PBASA10000432024",
+      "hearing_date": "2024-01-05"
+    },
+    {
+      "District": "Amritsar",
+      "norm_purpose_grouped": "appearance",
+      "prev_norm_purpose": "appearance",
+      "hearing_idx": 2,
+      "case_age_at_hearing": 34.0,
+      "prev_gap": 34.0,
+      "gap_trend": -7.25,
+      "cnr": "PBASA10000432024",
+      "hearing_date": "2024-02-08"
+    },
+    {
+      "District": "Amritsar",
+      "norm_purpose_grouped": "evidence",
+      "prev_norm_purpose": "appearance",
+      "hearing_idx": 3,
+      "case_age_at_hearing": 54.0,
+      "prev_gap": 20.0,
+      "gap_trend": -17.0,
+      "cnr": "PBASA10000432024",
+      "hearing_date": "2024-02-28"
+    },
+    {
+      "District": "Amritsar",
+      "norm_purpose_grouped": "appearance",
+      "prev_norm_purpose": "evidence",
+      "hearing_idx": 4,
+      "case_age_at_hearing": 102.0,
+      "prev_gap": 48.0,
+      "gap_trend": 9.166666666666664,
+      "cnr": "PBASA10000432024",
+      "hearing_date": "2024-04-16"
+    },
+    {
+      "District": "Amritsar",
+      "norm_purpose_grouped": "appearance",
+      "prev_norm_purpose": "appearance",
+      "hearing_idx": 5,
+      "case_age_at_hearing": 151.0,
+      "prev_gap": 49.0,
+      "gap_trend": 8.714285714285715,
+      "cnr": "PBASA10000432024",
+      "hearing_date": "2024-06-04"
+    },
+    {
+      "District": "Amritsar",
+      "norm_purpose_grouped": "appearance",
+      "prev_norm_purpose": "appearance",
+      "hearing_idx": 6,
+      "case_age_at_hearing": 222.0,
+      "prev_gap": 71.0,
+      "gap_trend": 26.875,
+      "cnr": "PBASA10000432024",
+      "hearing_date": "2024-08-14"
+    }
+  ]
+}

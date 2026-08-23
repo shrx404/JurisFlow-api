@@ -1,0 +1,15 @@
+[project]
+name = "api-for-JurisFlow"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "catboost>=1.2.10",
+    "uvicorn[standard]>=0.30.0",
+    "pandas>=2.2.0",
+    "pydantic>=2.8.0",
+    "numpy>=1.26.0",
+    "requests>=2.32.0",
+    "fastapi>=0.115.0",
+]
